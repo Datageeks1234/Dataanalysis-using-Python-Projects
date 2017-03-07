@@ -2,6 +2,7 @@ Question-1
 -------------
 Analysis1
 Frequent Email exchanger: Idea is to find the key player in fraud
+The result is stored email files are dumped into emailData.txt
 Analysis2
 Most common keyword used in  email exchanger: Idea is to look through the pattern
 Analysis3
