@@ -47,3 +47,5 @@ Thay are represented using bar graph
 By considering 2014 December Articles we are finding the top Titles that appeared in NYT according to their frequency 
 
 They are represented using bar graphs 
+
+![toptilesanalysis](https://cloud.githubusercontent.com/assets/25045759/24582666/466190f2-1702-11e7-8565-20690162336b.png)
