@@ -29,6 +29,7 @@ Aim of analysis 2 is to Look through the pattern and to find, read and print 100
 ## Analysis-3
 Aim of analysis 3 is to Spike in email exchange the time of bankcrupcy and print those email ids
 
+## NYT DATASET
 ###### Question-2
 
 ## Analysis-1
@@ -40,6 +41,7 @@ found that Trump word frequency is greater than Hilary
 Total number of words donald trump appeared in 2017 January is 11 and Hilary is 5
 
 Thay are represented using bar graph
+
 
 ## Analysis-3
 By considering 2014 December Articles we are finding the top Titles that appeared in NYT according to their frequency 
