@@ -23,9 +23,11 @@ Aim of analysis 1 is to find the Frequent Email exchanger:
 
 Mainly this analysis concentrates on finding the key player in fraud.
 
-As a result of this analysis suspicious emails are dumped into email.text file and saved. 
+As a result of this analysis suspicious emails are dumped into email.text file and saved.
+![pp](https://cloud.githubusercontent.com/assets/25045759/24582766/f18e3686-1704-11e7-9b96-aef35df678e1.png)
 ## Analysis-2
 Aim of analysis 2 is to Look through the pattern and to find, read and print 100 most common Keywords used during email exchanges
+
 ## Analysis-3
 Aim of analysis 3 is to Spike in email exchange the time of bankcrupcy and print those email ids
 
@@ -40,7 +42,7 @@ found that Trump word frequency is greater than Hilary
 
 Total number of words donald trump appeared in 2017 January is 11 and Hilary is 5
 
-Thay are represented using bar graph
+Plotted results using matplotlib
 
 ![politics](https://cloud.githubusercontent.com/assets/25045759/24582671/6f681872-1702-11e7-954d-f49ddbdaf5a6.png)
 
@@ -49,6 +51,6 @@ Thay are represented using bar graph
 ## Analysis-3
 By considering 2014 December Articles we are finding the top Titles that appeared in NYT according to their frequency 
 
-They are represented using bar graphs 
+Plotted results using matplotlib
 
 ![toptilesanalysis](https://cloud.githubusercontent.com/assets/25045759/24582666/466190f2-1702-11e7-8565-20690162336b.png)
