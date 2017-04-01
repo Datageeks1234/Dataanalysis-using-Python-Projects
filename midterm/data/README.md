@@ -42,6 +42,9 @@ Total number of words donald trump appeared in 2017 January is 11 and Hilary is 
 
 Thay are represented using bar graph
 
+![politics](https://cloud.githubusercontent.com/assets/25045759/24582671/6f681872-1702-11e7-954d-f49ddbdaf5a6.png)
+
+
 
 ## Analysis-3
 By considering 2014 December Articles we are finding the top Titles that appeared in NYT according to their frequency 
