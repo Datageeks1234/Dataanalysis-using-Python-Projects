@@ -35,7 +35,7 @@ Aim of analysis 2 is to Look through the pattern and to find, read and print 100
 ![p2f](https://cloud.githubusercontent.com/assets/25045759/24582832/4c9713ee-1706-11e7-8b0b-e92c77372063.png)
 
 ## Analysis-3
-Aim of analysis 3 is to Spike in email exchange the time of bankcrupcy and print those email ids
+Aim of analysis 3 is to Spike in email exchange the time of bankcrupcy and print those email ids and contents
 
 ![p3f](https://cloud.githubusercontent.com/assets/25045759/24582831/4c9625ec-1706-11e7-8b9a-bb90b3fe01c7.png)
 
