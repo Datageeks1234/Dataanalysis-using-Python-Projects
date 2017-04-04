@@ -65,7 +65,7 @@ for i in req_data.index:
             nomi = re.findall('[0-9 ]+nominat*',awards)
             if nomi:
                 req_data['Awards_nominated'].ix[i] = nomi[0].split()[0]
-print req_data.head(2)
+print(req_data.head(2))
 req_data.to_csv('Q4_PART_1.csv')
             
             
