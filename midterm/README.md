@@ -30,7 +30,7 @@ Also printing the suspecious mail ids and their respective frequencies.
 Represented all the mail ids and their frequencies using matplotlib
 
 ![p1f](https://cloud.githubusercontent.com/assets/25045759/24582830/4c961d90-1706-11e7-8b00-f0298743e557.png)
-<img width="375" alt="qe1 2" src="https://cloud.githubusercontent.com/assets/25045759/24969873/44e49496-1f80-11e7-9721-58237340a3a4.png">
+<img width="600" height="600" alt="qe1 2" src="https://cloud.githubusercontent.com/assets/25045759/24969873/44e49496-1f80-11e7-9721-58237340a3a4.png">
 
 ## Analysis-2
 Aim of analysis 2 is to Look through the pattern and to find, read and print 100 most common Keywords used during email exchanges
