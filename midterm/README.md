@@ -47,8 +47,13 @@ Aim of analysis 3 is to Spike in email exchange the time of bankcrupcy and print
 ###### Question-2
 
 ## Analysis-1
+
+Analyzed Sports data from 2010-2017 and represented different percentage of sports categories using matplot lib pie chart.
+
+<img width="381" alt="a2q1" src="https://cloud.githubusercontent.com/assets/25045759/25024774/4722728a-206d-11e7-81f2-d7ecf3ec3749.png">
+
 ## Analysis-2
-Tried to find the keyword analysis for Hilary Clinton versus trump at the time of election 
+Analyzed the keyword for Hilary Clinton versus trump at the time of election 
 
 found that Trump word frequency is greater than Hilary
 
