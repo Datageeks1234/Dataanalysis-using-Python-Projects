@@ -53,6 +53,13 @@ Analyzed Sports data from 2010-2017 and represented different percentage of spor
 <img width="381" alt="a2q1" src="https://cloud.githubusercontent.com/assets/25045759/25024774/4722728a-206d-11e7-81f2-d7ecf3ec3749.png">
 
 ## Analysis-2
+
+(part-1)
+Analyzed top 10 words and frequencies in the politics category and represented them using bar graphs
+
+![politics](https://cloud.githubusercontent.com/assets/25045759/24582671/6f681872-1702-11e7-954d-f49ddbdaf5a6.png)
+
+(part-2)
 Analyzed the keyword for Hilary Clinton versus trump at the time of election 
 
 found that Trump word frequency is greater than Hilary
@@ -61,8 +68,7 @@ Total number of words donald trump appeared in 2017 January is 11 and Hilary is 
 
 Plotted results using matplotlib
 
-![politics](https://cloud.githubusercontent.com/assets/25045759/24582671/6f681872-1702-11e7-954d-f49ddbdaf5a6.png)
-
+![politic](https://cloud.githubusercontent.com/assets/25045759/25052539/59e3ca46-2120-11e7-9b30-89aa7ce54d2e.png)
 
 
 ## Analysis-3
