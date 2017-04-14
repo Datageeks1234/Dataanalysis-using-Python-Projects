@@ -54,9 +54,7 @@ Analyzed Sports data from 2010-2017 and represented different percentage of spor
 <img width="381" alt="a2q1" src="https://cloud.githubusercontent.com/assets/25045759/25024774/4722728a-206d-11e7-81f2-d7ecf3ec3749.png">
 
 (part-2)
-Anaalyzed sports data for each year from 2010 - 2017 and saved the data in respective csv files.
-
-![sport](https://cloud.githubusercontent.com/assets/25045759/25055522/5b00a8e8-2131-11e7-9801-99a5806adc4e.jpg)
+Analyzed sports data for each year from 2010 - 2017 and saved the data in respective csv files.
 
 
 ## Analysis-2
