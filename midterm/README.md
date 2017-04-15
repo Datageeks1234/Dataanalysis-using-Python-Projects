@@ -56,6 +56,11 @@ Analyzed Sports data from 2010-2017 and represented different percentage of spor
 (part-2)
 Analyzed sports data for each year from 2010 - 2017 and saved the data in respective csv files.
 
+Percentages of sports categories published in NYT for every year is represented using matplotlib pie charts 
+
+<img width="750" height="400" alt="sportpie" src="https://cloud.githubusercontent.com/assets/25045759/25066180/6161ea8c-21ed-11e7-9056-1e43fd35c0e7.png">
+
+
 
 ## Analysis-2
 
