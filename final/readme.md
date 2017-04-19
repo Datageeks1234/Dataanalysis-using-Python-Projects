@@ -58,5 +58,5 @@ From the second graph we can clearly infer that there are more number of male ri
 ### (Part-1)
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
 
-###(Part-2)
+### (Part-2)
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
