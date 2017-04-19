@@ -52,8 +52,11 @@ Also analysed rides distrubution according to different locations based on gende
 
 ## Observations
 From the first graph it can be infered that there are more number of riders in lunenberg(01462) of age group(30-40)
+
 Locations near to city there are more number of riders with age group less than 30
+
 In Suburbs there are more riders with age groups 40-50
+
 From the second graph we can clearly infer that there are more number of male riders than female riders
 
 
