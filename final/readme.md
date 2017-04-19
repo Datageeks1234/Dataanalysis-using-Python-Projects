@@ -21,7 +21,7 @@ During the WEEKEND (2PM-6PM) more number of bikes are rented
 ### (Part-1)
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
-###(Part-2)
+### (Part-2)
 ![analysis1_2](https://cloud.githubusercontent.com/assets/25045759/25202545/be8d3854-2523-11e7-9ee9-1e7b19eed072.png)
 
 
