@@ -55,6 +55,8 @@ For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in
 ### (Part-2)
 ![analysis2_1](https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png)
 
+### (Part-3)
+![analysis2_3](https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png)
 
 # Riders Demographic analysis
 
