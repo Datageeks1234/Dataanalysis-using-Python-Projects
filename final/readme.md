@@ -4,7 +4,10 @@
 
 ## Introduction
 Boston’s bike share program, Hubway, has quickly become a convenient, affordable and fun way to navigate in the city. This bike share program have embraced the influx of big data collected by their bike/station technology, using the rich datasets for their own business insights as well as posting many of them to the public for any aspiring data enthusiast to analyze.
+
 ## Data Resource
+Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway Trip History dataset</a> contains information on over 1M bike trips spanning from the program’s inception in 2011 to mid-2013.
+
 ## Analysis 
 
 # General Ridership Pattern analysis
