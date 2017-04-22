@@ -20,8 +20,20 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 * We can clearly undrestand that during WEEEKDAYS Morning(11AM-1PM) and Evening(6PM-8PM) more number of bikes are rented
 * During the WEEKEND (2PM-6PM) more number of bikes are rented
 
+## Input Parameters
+
+## Steps
+
+## Output
+
 ### (Part-1)
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
+
+## Input Parameters
+
+## Steps
+
+## Output
 
 ### (Part-2)
 ![analysis1_2](https://cloud.githubusercontent.com/assets/25045759/25202545/be8d3854-2523-11e7-9ee9-1e7b19eed072.png)
@@ -39,11 +51,29 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 * For the year 2012 on an average the higest duration of ride lasted for 5.2hrs in the month of July
 * For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in the month of August
 
+## Input Parameters
+
+## Steps
+
+## Output
+
 ### (Part-1)
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
 
+## Input Parameters
+
+## Steps
+
+## Output
+
 ### (Part-2)
 ![analysis2_1](https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png)
+
+## Input Parameters
+
+## Steps
+
+## Output
 
 ### (Part-3)
 ![analysis2_3](https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png)
@@ -60,9 +90,20 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 * In Suburbs there are more riders with age groups 40-50
 * From the second graph we can clearly infer that there are more number of male riders than female riders
 
+## Input Parameters
+
+## Steps
+
+## Output
 
 ### (Part-1)
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
+
+## Input Parameters
+
+## Steps
+
+## Output
 
 ### (Part-2)
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
