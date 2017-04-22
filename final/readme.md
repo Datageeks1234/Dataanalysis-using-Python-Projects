@@ -33,8 +33,8 @@ Duration, Number of rides, Start time, end time
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1 Data</a>
 ## Output
-CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_1.csv"/>General Ridership Pattern During Weekdays</a>
-Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>General Ridership Pattern During Weekdays plot</a>
+* CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_1.csv"/>General Ridership Pattern During Weekdays</a>
+* Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>General Ridership Pattern During Weekdays plot</a>
 
 ### (Part-1) General Ridership Pattern During Weekdays
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
