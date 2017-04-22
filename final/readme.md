@@ -69,7 +69,7 @@ Duration, start time, end time
 * Calculate the duration of rides for every month in both the years 2011 and 2012
 * Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis 
 ## Output
-### CSV Files:<a href=""/>Duration of rides by year </a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv"/>Duration of rides by year 2011</a>,<a href=" https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/>Duration of rides by year 2012
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
 
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
@@ -79,10 +79,10 @@ Duration, start time, end time
 Duration, start time, end time
 ## Steps
 * Using api key request the data from URl and generate data frame with required parameters
-* Use group by function to group the months of both fall and spring seasons of year 2012
+* Use group by function to group the months of both fall(july-dec) and spring(jan-june) seasons for the year 2012
 * Plot the duration values using matplotlib pie chart for different months of a year
 ## Output
-### CSV Files:<a href=""/> Duration of rides by season</a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/> Duration of rides by season for spring</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-07-01.csv"/> Duration of rides by season for fall</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/> Duration of rides by season plot</a>
 
 <img width="500" height="550" alt="untitled" src=https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png>
@@ -96,7 +96,7 @@ Duration, start time, end time, gender
 * Count the gender with respect to duration data
 * Plot the duration values using matplotlib plot group by Gender
 ## Output
-### CSV Files:<a href=" "/> Duration of rides by Gender </a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv "/> Duration of rides by Gender year 2011</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv "/> Duration of rides by Gender year 2012</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png" /> Duration of rides by Gender </a>
 
 <img width="500" height="550" alt="untitled" src= https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png >
