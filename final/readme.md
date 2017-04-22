@@ -69,7 +69,7 @@ Duration, start time, end time
 * Calculate the duration of rides for every month in both the years 2011 and 2012
 * Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis 
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv"/>Duration of rides by year 2011</a>,<a href=" https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/>Duration of rides by year 2012
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv"/>Duration of rides by year 2011</a>, <a href=" https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/>Duration of rides by year 2012</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
 
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
