@@ -97,8 +97,7 @@ Duration, start time, end time, gender
 * Plot the duration values using matplotlib plot group by Gender
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv "/> Duration of rides by Gender year 2011</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv "/> Duration of rides by Gender year 2012</a>
-### Plot Files:<a href="https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png
-" /> Duration of rides by Gender </a>
+### Plot Files:<a href="https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png" /> Duration of rides by Gender </a>
 
 <img width="500" height="550" alt="untitled" src= https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png >
 
