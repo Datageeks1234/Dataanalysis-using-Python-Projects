@@ -25,8 +25,9 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files: <a href=""/>
+### Plot Files: <a href=""/>
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -35,13 +36,9 @@ Content Cell  | Content Cell
 ### (Part-1)
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
-## Input Parameters
-
-## Steps
-
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -69,8 +66,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -85,8 +82,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -101,8 +98,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -117,8 +114,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -140,8 +137,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -156,8 +153,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:
-### Plot Files:
+### CSV Files:<a href=""/>
+### Plot Files:<a href=""/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -166,3 +163,4 @@ Content Cell  | Content Cell
 
 ### (Part-2)
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
+
