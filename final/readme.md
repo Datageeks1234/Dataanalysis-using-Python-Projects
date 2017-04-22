@@ -42,8 +42,8 @@ Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/e
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1 Data</a>
 ## Output
-CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_2.csv"/>General Ridership Pattern During Weekend</a>
-Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/>General Ridership Pattern During Weekend plot</a>
+* CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_2.csv"/>General Ridership Pattern During Weekend</a>
+* Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/>General Ridership Pattern During Weekend plot</a>
 
 ### (Part-2) General Ridership Pattern During Weekend
 ![analysis1_2](https://cloud.githubusercontent.com/assets/25045759/25202545/be8d3854-2523-11e7-9ee9-1e7b19eed072.png)
@@ -74,8 +74,8 @@ Duration, start time, end time
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_1.csv"/>2011 Data</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012.csv"/>2012 Data</a>
 ## Output
-CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_1.csv"/>Duration of rides by years</a>
-Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
+* CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_1.csv"/>Duration of rides by years</a>
+* Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
 
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
 
@@ -89,8 +89,8 @@ Duration, start time, end time
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/>spring Data</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-07-01.csv"/>fall Data</a>
 ## Output
-CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_2.csv"/>Duration of rides by season</a>
-Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/> Duration of rides by season plot</a>
+* CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_2.csv"/>Duration of rides by season</a>
+* Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/> Duration of rides by season plot</a>
 
 <img width="500" height="550" alt="untitled" src=https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png>
 
@@ -105,8 +105,8 @@ Duration, start time, end time, gender
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011.csv"/>2011 Riders Gender Data</a>,<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012.csv"/>2012 Riders Gender Data </a>
 ## Output
-CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_3.csv"/> Duration of rides by Gender year</a>
-Plot Files:<a href="https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png" /> Duration of rides by Gender </a>
+* CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_3.csv"/> Duration of rides by Gender year</a>
+* Plot Files:<a href="https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png" /> Duration of rides by Gender </a>
 
 <img width="500" height="550" alt="untitled" src= https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png >
 
@@ -135,8 +135,8 @@ Bike number, Data of birth, Zip code
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Analysis3 data</a>
 ## Output
-CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_1.csv"/>Demographic analysis based on Age group</a>
-Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>Demographic analysis based on Age group Plot</a>
+* CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_1.csv"/>Demographic analysis based on Age group</a>
+* Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>Demographic analysis based on Age group Plot</a>
 
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
 
@@ -152,8 +152,8 @@ Bike number, Gender, Zip code
 ## Input
 CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Analysis3 data</a>
 ## Output
-CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_2.csv"/> Demographic analysis based on Gender</a>
-Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/> Demographic analysis based on Gender Plot</a>
+* CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_2.csv"/> Demographic analysis based on Gender</a>
+* Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/> Demographic analysis based on Gender Plot</a>
 
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
 
