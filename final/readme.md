@@ -11,19 +11,14 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 ## Analysis 
 
 # General Ridership Pattern analysis
-
-Hubway datasets provided information related number of bikes rented and its Time stamp i.e Departure time and Arrival time.
-
-Using this data calculated the mean of number of bikes
-
-In this analysis general ridership pattern is obtained as shown below
-
-Compared Mean of number of bikes rented during WEEKDAY vs WEEKEND
+* Hubway datasets provided information related number of bikes rented and its Time stamp i.e Departure time and Arrival time.
+* Using this data calculated the mean of number of bikes
+* In this analysis general ridership pattern is obtained as shown below
+* Compared Mean of number of bikes rented during WEEKDAY vs WEEKEND
 
 ## Observations
-We can clearly undrestand that during WEEEKDAYS Morning(11AM-1PM) and Evening(6PM-8PM) more number of bikes are rented
-
-During the WEEKEND (2PM-6PM) more number of bikes are rented
+* We can clearly undrestand that during WEEEKDAYS Morning(11AM-1PM) and Evening(6PM-8PM) more number of bikes are rented
+* During the WEEKEND (2PM-6PM) more number of bikes are rented
 
 ### (Part-1)
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
@@ -34,20 +29,15 @@ During the WEEKEND (2PM-6PM) more number of bikes are rented
 
 # Hubway bike seasonality analysis
 
-In this analysis we observed how the duaration of rides different based on seasons.
-
-Hubway datasets provided information starting from July-2011 to Nov-2013 according to the hubway data time stamps caluculated the duration of rides 
-
-compared duration of rides for years 2011 and 2012 for different months
-
-For the year 2012 compared the duration of rides for January-June and July-December
+* In this analysis we observed how the duaration of rides different based on seasons.
+* Hubway datasets provided information starting from July-2011 to Nov-2013 according to the hubway data time stamps caluculated the duration of rides 
+* compared duration of rides for years 2011 and 2012 for different months
+* For the year 2012 compared the duration of rides for January-June and July-December
 
 ## Observations
-We can infer that during sever summer or winter seasons the duration of rides are very low
-
-For the year 2012 on an average the higest duration of ride lasted for 5.2hrs in the month of July
-
-For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in the month of August
+* We can infer that during sever summer or winter seasons the duration of rides are very low
+* For the year 2012 on an average the higest duration of ride lasted for 5.2hrs in the month of July
+* For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in the month of August
 
 ### (Part-1)
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
@@ -60,20 +50,15 @@ For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in
 
 # Riders Demographic analysis
 
-This analysis invovles riders demograph. 
-
-Analyzed which age group riders are more at which locations of massachusetts
-
-Also analysed rides distrubution according to different locations based on gender
+* This analysis invovles riders demograph. 
+* Analyzed which age group riders are more at which locations of massachusetts
+* Also analysed rides distrubution according to different locations based on gender
 
 ## Observations
-From the first graph it can be infered that there are more number of riders in lunenberg(01462) of age group(30-40)
-
-Locations near to city there are more number of riders with age group less than 30
-
-In Suburbs there are more riders with age groups 40-50
-
-From the second graph we can clearly infer that there are more number of male riders than female riders
+* From the first graph it can be infered that there are more number of riders in lunenberg(01462) of age group(30-40)
+* Locations near to city there are more number of riders with age group less than 30
+* In Suburbs there are more riders with age groups 40-50
+* From the second graph we can clearly infer that there are more number of male riders than female riders
 
 
 ### (Part-1)
