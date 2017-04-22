@@ -18,7 +18,7 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 
 ## Observations
 * We can clearly undrestand that during WEEEKDAYS Morning(11AM-1PM) and Evening(6PM-8PM) more number of bikes are rented
-* During the WEEKEND (2PM-6PM) more number of bikes are rented
+* On WEEKEND (2PM-6PM) more number of bikes are rented. Seems like more number of users are interested to ride during middle of the day 
 
 ## Input Parameters
 Duration, Number of rides, Start time, end time
@@ -54,30 +54,33 @@ Duration, Number of rides, Start time, end time
 * For the year 2012 compared the duration of rides for January-June and July-December
 
 ## Observations
-* We can infer that during sever summer or winter seasons the duration of rides are very low
-* For the year 2012 on an average the higest duration of ride lasted for 5.2hrs in the month of July
-* For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in the month of August
 
+* There is seasonality, as it can be infered from part1 that bike usage is increased over years
+* From part1 we can also infer that during starting of summer the duration of rides are high and in sever summer or winter seasons the duration of rides are very low
+* From part2, For the year 2012 on an average the higest duration of ride lasted for 5.2hrs in the month of July
+* For the year 2011 on an average the higest duration of ride lasted for 3.6hrs in the month of August
+* From part3, we can notice how duration of riding hubway bikes increased by females when compared to year 2011 
+
+### (Part-1) Comparision of duration of rides(2011-2012)
 ## Input Parameters
 
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/></a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/></a>
+### CSV Files:<a href=""/ >Duration of rides by year </a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/ > Duration of rides by year plot</a>
 
-### (Part-1)
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
 
+### (Part-2) Comparing Spring and Fall duration of rides
 ## Input Parameters
 
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/></a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/></a>
+### CSV Files:<a href=""/ > Duration of rides by season</a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/ > Duration of rides by season plot</a>
 
-### (Part-2)
 ![analysis2_1](https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png)
 
 ## Input Parameters
@@ -85,8 +88,8 @@ Duration, Number of rides, Start time, end time
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/></a>
-### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/></a>
+### CSV Files:<a href=""/ > </a>
+### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/ > </a>
 
 ### (Part-3)
 ![analysis2_3](https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png)
