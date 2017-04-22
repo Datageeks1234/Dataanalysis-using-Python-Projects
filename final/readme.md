@@ -113,6 +113,8 @@ Duration, start time, end time, gender
 * In Suburbs there are more riders with age groups 40-50
 * From the second graph we can clearly infer that there are more number of male riders than female riders
 
+
+### (Part-1) Riders Demographic graph based on Age group
 ## Input Parameters
 Bike number, Data of birth, Zip code
 
@@ -120,15 +122,15 @@ Bike number, Data of birth, Zip code
 * Using api key request the data from URl and generate data frame with required parameters
 * Based on the date of birth calculate the age of riders
 * Using count function calculate the number of bike rides
-* Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Gender
+* Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Age
 
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Demographic analysis based on Age group</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>Demographic analysis based on Age group Plot</a>
 
-### (Part-1) Riders Demographic graph based on Age group
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
 
+### (Part-2) Riders Demographic graph based on Gender
 ## Input Parameters
 Bike number, Gender, Zip code
 
@@ -141,6 +143,6 @@ Bike number, Gender, Zip code
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/> Demographic analysis based on Gender</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/> Demographic analysis based on Gender Plot</a>
-### (Part-2) Riders Demographic graph based on Gender
+
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
 
