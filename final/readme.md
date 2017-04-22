@@ -25,8 +25,8 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 ## Steps
 
 ## Output
-### CSV Files: <a href=""/>
-### Plot Files: <a href=""/>
+### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>
+### Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>
 
 First Header  | Second Header
 ------------- | -------------
@@ -37,8 +37,9 @@ Content Cell  | Content Cell
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
 ## Output
-### CSV Files:<a href=""/>
-### Plot Files:<a href=""/>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/>
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -67,7 +68,7 @@ Content Cell  | Content Cell
 
 ## Output
 ### CSV Files:<a href=""/>
-### Plot Files:<a href=""/>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -83,7 +84,7 @@ Content Cell  | Content Cell
 
 ## Output
 ### CSV Files:<a href=""/>
-### Plot Files:<a href=""/>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -99,7 +100,7 @@ Content Cell  | Content Cell
 
 ## Output
 ### CSV Files:<a href=""/>
-### Plot Files:<a href=""/>
+### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -137,8 +138,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/>
-### Plot Files:<a href=""/>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -153,8 +154,8 @@ Content Cell  | Content Cell
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/>
-### Plot Files:<a href=""/>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
