@@ -25,7 +25,7 @@ Duration, Number of rides, Start time, end time
 
 ## Steps
 * Using api key request the data from URl and generate data frame with required parameters
-* Defien weekday and weekend dictonaries
+* Define weekday and weekend dictonaries
 * Set different timings of a day using groupby to get 24 hrs format representation on x axis with 1 hr time interval 
 * Calculate the mean of number of bikes rented at that particular timing
 * Plot two graphs for weekend and weekday to compare peak bike ride timings.
