@@ -33,7 +33,7 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-### (Part-1)
+### (Part-1) General Ridership Pattern During Weekdays
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
 ## Output
@@ -46,7 +46,7 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell
 
 
-### (Part-2)
+### (Part-2) General Ridership Pattern During Weekend
 ![analysis1_2](https://cloud.githubusercontent.com/assets/25045759/25202545/be8d3854-2523-11e7-9ee9-1e7b19eed072.png)
 
 
@@ -134,34 +134,33 @@ Content Cell  | Content Cell
 * From the second graph we can clearly infer that there are more number of male riders than female riders
 
 ## Input Parameters
+Bike number, Data of birth, Zip code
 
 ## Steps
+* Using api key request the data from URl and generate data frame with required parameters
+* Based on the date of birth calculate the age of riders
+* Using count function calculate the number of bike rides
+* Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Gender
 
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/></a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/></a>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
-
-### (Part-1)
+### (Part-1) Riders Demographic graph based on Age group
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
 
 ## Input Parameters
+Bike number, Gender, Zip code
 
 ## Steps
+* Using api key request the data from URl and generate data frame with required parameters
+* Using count function calculate the number of bike rides
+* Collect zip code details group by gender
+* Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Riders Gender
 
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/></a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/></a>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
-### (Part-2)
+### (Part-2) Riders Demographic graph based on Gender
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
 
