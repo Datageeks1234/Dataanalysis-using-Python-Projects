@@ -48,7 +48,7 @@ Duration, Number of rides, Start time, end time
 
 # Hubway bike seasonality analysis
 
-* In this analysis we observed how the duaration of rides different based on seasons.
+* In this analysis we observed how the duaration of rides differed based on seasons.
 * Hubway datasets provided information starting from July-2011 to Nov-2013 according to the hubway data time stamps calculated the duration of rides 
 * compared duration of rides for years 2011 and 2012 for different months
 * For the year 2012 compared the duration of rides for January-June and July-December
