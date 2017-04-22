@@ -67,8 +67,8 @@ Duration, Number of rides, Start time, end time
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/ >Duration of rides by year </a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/ > Duration of rides by year plot</a>
+### CSV Files:<a href=""/>Duration of rides by year </a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
 
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
 
@@ -78,8 +78,8 @@ Duration, Number of rides, Start time, end time
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/ > Duration of rides by season</a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/ > Duration of rides by season plot</a>
+### CSV Files:<a href=""/> Duration of rides by season</a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/> Duration of rides by season plot</a>
 
 <img width="500" height="550" alt="untitled" src=https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png>
 
