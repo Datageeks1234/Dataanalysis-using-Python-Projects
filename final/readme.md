@@ -31,7 +31,7 @@ Duration, Number of rides, Start time, end time
 * Plot two graphs for weekend and weekday to compare peak bike ride timings.
 * Use seaborn barplot with Time on x-axis and mean of number of bikes of y-axis
 ## Input
-### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1Data</a>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1 Data</a>
 ## Output
 ### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_1.csv"/>General Ridership Pattern During Weekdays</a>
 ### Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>General Ridership Pattern During Weekdays plot</a>
@@ -40,7 +40,7 @@ Duration, Number of rides, Start time, end time
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
 ## Input
-### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1Data</a>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1 Data</a>
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_2.csv"/>General Ridership Pattern During Weekend</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/>General Ridership Pattern During Weekend plot</a>
@@ -133,7 +133,7 @@ Bike number, Data of birth, Zip code
 * Using count function calculate the number of bike rides
 * Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Age
 ## Input
-### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Analysis3 data</a>
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_1.csv"/>Demographic analysis based on Age group</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>Demographic analysis based on Age group Plot</a>
@@ -150,7 +150,7 @@ Bike number, Gender, Zip code
 * Collect zip code details group by gender
 * Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Riders Gender
 ## Input
-### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Analysis3 data</a>
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_2.csv"/> Demographic analysis based on Gender</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/> Demographic analysis based on Gender Plot</a>
