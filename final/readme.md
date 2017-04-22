@@ -83,15 +83,14 @@ Duration, Number of rides, Start time, end time
 
 <img width="500" height="550" alt="untitled" src=https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png>
 
+### (Part-3) Duration of rides by Gneder for year 2011, 2012
 ## Input Parameters
 
 ## Steps
 
 ## Output
-### CSV Files:<a href=""/ > </a>
-### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/ > </a>
-
-### (Part-3)
+### CSV Files:<a href=""/> Duration of rides by Gneder </a>
+### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/>  Duration of rides by Gneder</a>
 <img width="500" height="550" alt="untitled" src= https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png >
 
 # Riders Demographic analysis
