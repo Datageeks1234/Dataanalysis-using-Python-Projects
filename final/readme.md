@@ -31,7 +31,7 @@ Duration, Number of rides, Start time, end time
 * Plot two graphs for weekend and weekday to compare peak bike ride timings.
 * Use seaborn barplot with Time on x-axis and mean of number of bikes of y-axis
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1Data</a>
 ## Output
 ### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_1.csv"/>General Ridership Pattern During Weekdays</a>
 ### Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>General Ridership Pattern During Weekdays plot</a>
@@ -40,7 +40,7 @@ Duration, Number of rides, Start time, end time
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>Analysis1Data</a>
 ## Output
 ### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis1_2.csv"/>General Ridership Pattern During Weekend</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/>General Ridership Pattern During Weekend plot</a>
@@ -72,9 +72,9 @@ Duration, start time, end time
 * Calculate the duration of rides for every month in both the years 2011 and 2012
 * Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis 
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_1.csv"/>2011 Data</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012.csv"/>2012 Data</a>
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv"/>Duration of rides by year 2011</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/>Duration of rides by year 2012</a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_1.csv"/>Duration of rides by years</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
 
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
@@ -87,9 +87,9 @@ Duration, start time, end time
 * Use group by function to group the months of both fall(july-dec) and spring(jan-june) seasons for the year 2012
 * Plot the duration values using matplotlib pie chart for different months of a year
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/>spring Data</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-07-01.csv"/>fall Data</a>
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv"/> Duration of rides by season for spring</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-07-01.csv"/> Duration of rides by season for fall</a>
+### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_2.csv"/>Duration of rides by season</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/> Duration of rides by season plot</a>
 
 <img width="500" height="550" alt="untitled" src=https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png>
@@ -103,9 +103,9 @@ Duration, start time, end time, gender
 * Count the gender with respect to duration data
 * Plot the duration values using matplotlib plot group by Gender
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011.csv"/>2011 Riders Gender Data</a>,<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012.csv"/>2012 Riders Gender Data </a>
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12011-01-01.csv "/> Duration of rides by Gender year 2011</a>, <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis2_12012-01-01.csv "/> Duration of rides by Gender year 2012</a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis2_3.csv"/> Duration of rides by Gender year</a>
 ### Plot Files:<a href="https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png" /> Duration of rides by Gender </a>
 
 <img width="500" height="550" alt="untitled" src= https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png >
@@ -133,9 +133,9 @@ Bike number, Data of birth, Zip code
 * Using count function calculate the number of bike rides
 * Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Age
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Demographic analysis based on Age group</a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_1.csv"/>Demographic analysis based on Age group</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>Demographic analysis based on Age group Plot</a>
 
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
@@ -150,9 +150,9 @@ Bike number, Gender, Zip code
 * Collect zip code details group by gender
 * Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Riders Gender
 ## Input
-### CSV File: <a href=""/>
+### CSV File: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/> Demographic analysis based on Gender</a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/analysis/analysis3_2.csv"/> Demographic analysis based on Gender</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/> Demographic analysis based on Gender Plot</a>
 
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
