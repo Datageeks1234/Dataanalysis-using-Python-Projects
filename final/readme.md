@@ -143,8 +143,8 @@ Bike number, Data of birth, Zip code
 * Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Gender
 
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/></a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/></a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Riders Demographic graph based on Age group</a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3.png"/>Riders Demographic graph based on Age group Plot</a>
 
 ### (Part-1) Riders Demographic graph based on Age group
 ![analysis3](https://cloud.githubusercontent.com/assets/25045759/25202548/be910fec-2523-11e7-9bdf-1f86ff7d5ef5.png)
@@ -159,8 +159,8 @@ Bike number, Gender, Zip code
 * Plot the values using matplotlib stacked bar plot with location zipcodes on X-axis, Number of rides on Y-axis group by Riders Gender
 
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/></a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/></a>
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis3.csv"/>Riders Demographic graph based on Gender</a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis3_1.png"/>Riders Demographic graph based on Gender Plot</a>
 ### (Part-2) Riders Demographic graph based on Gender
 ![analysis3_1](https://cloud.githubusercontent.com/assets/25045759/25202549/be923494-2523-11e7-9ea6-c6b046b7f3b1.png)
 
