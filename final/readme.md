@@ -49,7 +49,7 @@ Duration, Number of rides, Start time, end time
 # Hubway bike seasonality analysis
 
 * In this analysis we observed how the duaration of rides different based on seasons.
-* Hubway datasets provided information starting from July-2011 to Nov-2013 according to the hubway data time stamps caluculated the duration of rides 
+* Hubway datasets provided information starting from July-2011 to Nov-2013 according to the hubway data time stamps calculated the duration of rides 
 * compared duration of rides for years 2011 and 2012 for different months
 * For the year 2012 compared the duration of rides for January-June and July-December
 
@@ -63,9 +63,11 @@ Duration, Number of rides, Start time, end time
 
 ### (Part-1) Comparision of duration of rides(2011-2012)
 ## Input Parameters
-
+Duration, start time, end time
 ## Steps
-
+*
+*
+* Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis group by Gender
 ## Output
 ### CSV Files:<a href=""/>Duration of rides by year </a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
@@ -74,9 +76,11 @@ Duration, Number of rides, Start time, end time
 
 ### (Part-2) Comparing Spring and Fall duration of rides
 ## Input Parameters
-
+Duration, start time, end time
 ## Steps
-
+*
+*
+* Plot the duration values using matplotlib pie chart for different months of a year
 ## Output
 ### CSV Files:<a href=""/> Duration of rides by season</a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/> Duration of rides by season plot</a>
@@ -85,9 +89,12 @@ Duration, Number of rides, Start time, end time
 
 ### (Part-3) Duration of rides by Gneder for year 2011, 2012
 ## Input Parameters
-
+Duration, start time, end time, gender
 ## Steps
-
+*
+*
+*
+* Plot the duration values using matplotlib plot group by Gender
 ## Output
 ### CSV Files:<a href=""/> Duration of rides by Gneder </a>
 ### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/>  Duration of rides by Gneder</a>
