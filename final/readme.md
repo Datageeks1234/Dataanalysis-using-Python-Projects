@@ -67,7 +67,7 @@ Duration, start time, end time
 ## Steps
 *
 *
-* Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis group by Gender
+* Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis 
 ## Output
 ### CSV Files:<a href=""/>Duration of rides by year </a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/> Duration of rides by year plot</a>
