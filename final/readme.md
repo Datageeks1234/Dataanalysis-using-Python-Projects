@@ -32,7 +32,7 @@ Duration, Number of rides, Start time, end time
 * Use seaborn barplot with Time on x-axis and mean of number of bikes of y-axis
 
 ## Output
-### CSV Files: ### <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>General Ridership Pattern During Weekdays</a>
+### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>General Ridership Pattern During Weekdays</a>
 ### Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>General Ridership Pattern During Weekdays plot</a>
 
 ### (Part-1) General Ridership Pattern During Weekdays
