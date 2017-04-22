@@ -65,8 +65,8 @@ Duration, Number of rides, Start time, end time
 ## Input Parameters
 Duration, start time, end time
 ## Steps
-*
-*
+* Using api key request the data from URl and generate data frame with required parameters
+* Calculate the duration of rides for every month in both the years 2011 and 2012
 * Plot the values using seaborn and matplotlib plot a line graph with month of the year on X-axis, Duration of rides on Y-axis 
 ## Output
 ### CSV Files:<a href=""/>Duration of rides by year </a>
@@ -78,8 +78,8 @@ Duration, start time, end time
 ## Input Parameters
 Duration, start time, end time
 ## Steps
-*
-*
+* Using api key request the data from URl and generate data frame with required parameters
+* Use group by function to group the months of both fall and spring seasons of year 2012
 * Plot the duration values using matplotlib pie chart for different months of a year
 ## Output
 ### CSV Files:<a href=""/> Duration of rides by season</a>
@@ -91,9 +91,9 @@ Duration, start time, end time
 ## Input Parameters
 Duration, start time, end time, gender
 ## Steps
-*
-*
-*
+* Using api key request the data from URl and generate data frame with required parameters
+* Collect the required data for both the years 2011, 2012
+* Count the gender with respect to duration data
 * Plot the duration values using matplotlib plot group by Gender
 ## Output
 ### CSV Files:<a href=""/> Duration of rides by Gneder </a>
