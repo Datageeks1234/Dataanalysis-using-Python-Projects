@@ -21,30 +21,26 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 * During the WEEKEND (2PM-6PM) more number of bikes are rented
 
 ## Input Parameters
+Duration, Number of rides, Start time, end time
 
 ## Steps
+* Using api key request the data from URl and generate data frame with required parameters
+* Defien weekday and weekend dictonaries
+* Set different timings of a day using groupby to get 24 hrs format representation on x axis with 1 hr time interval 
+* Calculate the mean of number of bikes rented at that particular timing
+* Plot two graphs for weekend and weekday to compare peak bike ride timings.
+* Use seaborn barplot with Time on x-axis and mean of number of bikes of y-axis
 
 ## Output
-### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/></a>
-### Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/></a>
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+### CSV Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>General Ridership Pattern During Weekdays</a>
+### Plot Files: <a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1.png"/>General Ridership Pattern During Weekdays plot</a>
 
 ### (Part-1) General Ridership Pattern During Weekdays
 ![analysis1](https://cloud.githubusercontent.com/assets/25045759/25202544/be8ab3e0-2523-11e7-980b-f9154b9300d0.png)
 
 ## Output
-### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/></a>
-### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/></a>
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
+### CSV Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>General Ridership Pattern During Weekend</a>
+### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis1_2.png"/>General Ridership Pattern During Weekend plot</a>
 
 ### (Part-2) General Ridership Pattern During Weekend
 ![analysis1_2](https://cloud.githubusercontent.com/assets/25045759/25202545/be8d3854-2523-11e7-9ee9-1e7b19eed072.png)
@@ -69,11 +65,6 @@ Content Cell  | Content Cell
 ## Output
 ### CSV Files:<a href=""/></a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2.png"/></a>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
 
 ### (Part-1)
 ![analysis2](https://cloud.githubusercontent.com/assets/25045759/25202547/be8e8484-2523-11e7-9725-fc2934f37b12.png)
@@ -85,11 +76,6 @@ Content Cell  | Content Cell
 ## Output
 ### CSV Files:<a href=""/></a>
 ### Plot Files:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_1.png"/></a>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
 
 ### (Part-2)
 ![analysis2_1](https://cloud.githubusercontent.com/assets/25045759/25202546/be8d5bcc-2523-11e7-8b32-683b6a234047.png)
@@ -101,26 +87,10 @@ Content Cell  | Content Cell
 ## Output
 ### CSV Files:<a href=""/></a>
 ### Plot Files:<a href="vhttps://github.com/Uppalapa/Assignments/blob/master/final/extra/analysis2_3.png"/></a>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
 
 ### (Part-3)
 ![analysis2_3](https://cloud.githubusercontent.com/assets/25045759/25250597/39185ac0-25e4-11e7-807d-0cb59d32a0db.png)
 
-## Input Parameters
-
-## Steps
-
-## Output
-### CSV Files:<a href=""/></a>
-### Plot Files:<a href=""/></a>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 # Riders Demographic analysis
 
 * This analysis invovles riders demograph. 
