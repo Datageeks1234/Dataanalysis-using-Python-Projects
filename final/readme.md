@@ -17,7 +17,7 @@ Hubway - The <a href="http://hubwaydatachallenge.org/trip-history-data/">Hubway 
 * Compared Mean of number of bikes rented during WEEKDAY vs WEEKEND
 
 ## Observations
-* We can clearly undrestand that during WEEEKDAYS Morning(11AM-1PM) and Evening(6PM-8PM) more number of bikes are rented
+* We can clearly understand that during WEEEKDAYS Morning(11AM-1PM) and Evening(6PM-8PM) more number of bikes are rented
 * On WEEKEND (2PM-6PM) more number of bikes are rented. Seems like more number of users are interested to ride during middle of the day 
 
 ## Input Parameters
