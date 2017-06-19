@@ -1,4 +1,4 @@
-# Midterm 
+### Midterm 
 # Enron Data Analysis
-# Final
+### Final
 # Hubway Data Analysis
