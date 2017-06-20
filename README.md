@@ -1,7 +1,7 @@
 ### Midterm 
 # Analyzed Enron Datasets and NewYorkTimes Datasets
 ## Enron Datasets
-## - The enron data-set is available at [CMU Enron data 1.82 GB tgz file](https://www.cs.cmu.edu/~./enron/enron_mail_20150507.tgz)
+The enron data-set is available at [CMU Enron data 1.82 GB tgz file](https://www.cs.cmu.edu/~./enron/enron_mail_20150507.tgz)
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm"> README</a>
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm/Question1">Analysis Code</a>
 ## NewYorkTimes Datasets
