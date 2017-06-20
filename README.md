@@ -5,6 +5,9 @@ The enron data-set is available at [CMU Enron data 1.82 GB tgz file](https://www
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm"> README</a>
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm/Question1">Analysis Code</a>
 ## NewYorkTimes Datasets
+* Created an API key and stored it in Environment Variable
+* Used Request library to download the data
+* Used Archieve and Article Search method
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm"> Link to NYT Documentation</a>
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm"> README</a>
 ## <a href="https://github.com/Uppalapa/Dataanalysis-using-Python-Projects/tree/master/midterm/Question2">Analysis Code</a>
